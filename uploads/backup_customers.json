@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "673cc1080d9358e4121a6929",
+    "name": "Farokh",
+    "address": "kabul",
+    "phone": "0785955562",
+    "createdAt": "2024-11-19T16:47:04.745Z",
+    "__v": 0
+  },
+  {
+    "_id": "673cc1110d9358e4121a692c",
+    "name": "Zuhoor qaderi",
+    "address": "kabul",
+    "phone": "0785955562",
+    "createdAt": "2024-11-19T16:47:13.057Z",
+    "__v": 0
+  },
+  {
+    "_id": "673cc1190d9358e4121a692f",
+    "name": "Javed Khawar",
+    "address": "Qala-e-Haidar",
+    "phone": "078002516",
+    "createdAt": "2024-11-19T16:47:21.227Z",
+    "__v": 0
+  }
+]

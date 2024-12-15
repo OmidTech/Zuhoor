@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "6741a8ad33cd94b22c3ec375",
+    "description": "کرایه دوکان",
+    "catagory": "دوکان",
+    "currency": "Afg",
+    "amount": 5000,
+    "createdAt": "2024-11-23T10:04:29.555Z",
+    "__v": 0
+  },
+  {
+    "_id": "6742a7f21f1ec8278d03d411",
+    "description": "Breakfast",
+    "catagory": "Food",
+    "currency": "Afg",
+    "amount": 300,
+    "createdAt": "2024-11-24T04:13:38.851Z",
+    "__v": 0
+  },
+  {
+    "_id": "6742d27be53bb5f1fe43ef7a",
+    "description": "private",
+    "catagory": "yama",
+    "currency": "Afg",
+    "amount": 3000,
+    "createdAt": "2024-11-24T07:15:07.409Z",
+    "__v": 0
+  }
+]

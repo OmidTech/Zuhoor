@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "673e08b0aa015affef259195",
+    "item": "Cable 20M",
+    "__v": 0,
+    "lastUpdated": "2024-11-20T16:05:04.262Z",
+    "quantity": 15,
+    "unit": "M"
+  },
+  {
+    "_id": "673e08c0aa015affef2591a0",
+    "item": "Fuse 220V",
+    "__v": 0,
+    "lastUpdated": "2024-11-20T16:05:20.544Z",
+    "quantity": 25,
+    "unit": "Pcs"
+  },
+  {
+    "_id": "673ed161aa015affef25a341",
+    "item": "Fuse 300v",
+    "__v": 0,
+    "lastUpdated": "2024-11-21T06:21:21.833Z",
+    "quantity": 2,
+    "unit": "Pcs"
+  },
+  {
+    "_id": "67441b1915152f4dd7eff4b3",
+    "item": "Line Irn 20m",
+    "__v": 0,
+    "lastUpdated": "2024-11-25T06:37:13.377Z",
+    "quantity": 6,
+    "unit": "Pcs"
+  }
+]

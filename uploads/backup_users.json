@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "6742f23a1fb51005974ad6fd",
+    "username": "javed@g.com",
+    "password": "$2a$10$C2F01VwVd28MX5jy6e/wtuTRMlnyfBaTar9pd/LcaoTc1QbWeF6CO",
+    "role": "Admin",
+    "createdAt": "2024-11-24T09:30:34.122Z",
+    "__v": 0
+  },
+  {
+    "_id": "6745a6f0f4e1339fffc61572",
+    "username": "zuhoor@g.com",
+    "password": "$2a$10$9hroYsT/97fnA7LMfYY8BuM4.MaCJQ8ByyagBTAsZw99xajw5EsQu",
+    "role": "Admin",
+    "createdAt": "2024-11-26T10:46:08.426Z",
+    "__v": 0
+  }
+]

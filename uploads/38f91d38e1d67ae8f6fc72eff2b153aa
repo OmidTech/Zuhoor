@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "673e08b01f5f66544eed832e",
+    "item": "Cable 20M",
+    "createdAt": "2024-11-20T16:05:04.264Z",
+    "__v": 0,
+    "price": 200,
+    "currency": "Usd"
+  },
+  {
+    "_id": "673e08c01f5f66544eed8335",
+    "item": "Fuse 220V",
+    "createdAt": "2024-11-20T16:05:20.546Z",
+    "__v": 0,
+    "price": 250,
+    "currency": "Usd"
+  },
+  {
+    "_id": "673ed161efd095e60ed2ad96",
+    "item": "Fuse 300v",
+    "createdAt": "2024-11-21T06:21:21.837Z",
+    "__v": 0,
+    "price": 600,
+    "currency": "Afg"
+  },
+  {
+    "_id": "67441b19f402b45dee52ea59",
+    "item": "Line Irn 20m",
+    "createdAt": "2024-11-25T06:37:13.396Z",
+    "__v": 0,
+    "currency": "Afg",
+    "price": 2650
+  }
+]
